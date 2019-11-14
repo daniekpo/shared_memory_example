@@ -1,0 +1,2 @@
+# shared_memory_example
+I was working on a bug in Holodeck (https://github.com/BYU-PCCL/holodeck-engine) and I got to learn a few things about inter-process communication (IPC). This project demos IPC between C++ and Python and a different C++ client. I use semaphores to control access to the shared memory. I thought I'd put this in a public repo for anyone (including myself) to be able to use as a reference.
